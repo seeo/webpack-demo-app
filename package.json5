@@ -1,7 +1,7 @@
 {
   "name": "webpack-demo-app",
   "version": "1.0.0",
-  "private": true,
+  "private": true, //so that file will not be sent to NPM
   "description": "",
   "main": "index.js",
   "scripts": {},
